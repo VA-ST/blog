@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://blog.vercel.app',
+  siteUrl: 'https://blog-sable-seven.vercel.app',
   siteRepo: 'https://github.com/VA-ST/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
